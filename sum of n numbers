@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+int num,sum;
+printf("enter the number:");
+scanf(%d",&num);
+sum=n*(n+1)/2;
+printf("the sum of the %d numbers is %d\n",n,sum);
+return 0;
